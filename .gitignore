@@ -1,0 +1,13 @@
+node_modules/
+.qodo/
+
+backend/.env
+backend/.env.*
+!backend/.env.example
+backend/careermatch.sqlite
+backend/careermatch.sqlite-*
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+frontend/dist/
+frontend/node_modules/.vite_temp/
